@@ -1,0 +1,1 @@
+Starter script for GZDoom with BrutalDoom mod on Fedora 40.
